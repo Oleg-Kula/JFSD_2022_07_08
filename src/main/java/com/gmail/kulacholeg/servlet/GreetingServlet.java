@@ -1,7 +1,5 @@
 package com.gmail.kulacholeg.servlet;
 
-import com.gmail.kulacholeg.entity.User;
-
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
